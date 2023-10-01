@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: community
-description: Materials for courses you taught. Replace this text with your description.
+description: This section is still under construction.
 nav: true
 nav_order: 5
 ---
