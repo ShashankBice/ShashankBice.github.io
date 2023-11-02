@@ -4,4 +4,9 @@ github_users:
 github_repos:
   - uw-cryo/skysat_stereo
   - uw-cryo/asp-binder-demo
+  - uw-cryo/opentopo_dem
   - whyjz/GLAFT
+  - dshean/demcoreg
+  - NeoGeographyToolkit/StereoPipeline
+  - dshean/vmap
+  - nwgmeetings/nwg23

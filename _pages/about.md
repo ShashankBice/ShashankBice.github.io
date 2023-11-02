@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ce.washington.edu/people/postdoc'>Civil & Environmental Engineering, University of Washington</a>.Ice, Images, Pixels.
+subtitle: <a href='https://www.ce.washington.edu/people/postdoc'>Civil & Environmental Engineering, University of Washington</a>.<br>Ice, Images, Pixels.<br>precision-topography
 
 profile:
   align: right
