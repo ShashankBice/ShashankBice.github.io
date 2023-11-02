@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: community
-description: 
+description: Random thoughts about science and some links
 nav: true
 nav_order: 5
 ---
