@@ -17,3 +17,5 @@ I realize that this might be true with many of us, especially for those who come
 ## Some useful links
 * [Graduate School Application Station](https://geogradapp.com) by collagues [Malisse Lummus](https://geo.ku.edu/people/malisse-lummus) and [Asmara Lehrmann](https://geo.ua.edu/graduate-student/asmara-lehrmann/)
 * [Guide: Applying to STEM PhD Programs from Undergrad](https://docs.google.com/document/d/1edbNoCX0frs4gl2jCYWNsBhVEcC049xTE-4f-bouJzw/edit) by friend [Eric Gagliano](https://ericgagliano.com)
+* [Nature's guide for mentors](https://www.nature.com/articles/447791a.pdf)
+  
